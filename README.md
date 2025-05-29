@@ -2,6 +2,7 @@
 
 ## Introduction
 GOGC is a standalone Windows application that implements a Graph-optimized–based tool for Graphic correlation problem, as described in our accompanying article.  
+
 This repository also includes:
 - **Paper_data**: all input datasets used in the paper (see the `Paper_data/` folder)  
 - **Outputs**: the optimal outputs obtained by **GOGC** and by the comparative **CONOP** method (see the `Outputs/` folder)  
