@@ -14,11 +14,15 @@ You can run the application without MATLAB installed—only the free MATLAB Runt
   https://www.mathworks.com/products/compiler/matlab-runtime.html
 
 ## Installation
-1. Download the latest release from this repository.  
-2. Unpack the archive so that `GOGC.exe`, `Userguide.docx` (and optionally `MCRInstaller.exe`) reside in the same folder.
-
-## Usage
-Refer to **Userguide.docx** for full instructions. In brief, from a command prompt:
+1. Clone the repository:
+# Clone the GOGC repository
+git clone https://github.com/recophin/GOGC.git
+cd GOGC  
+2. Install MATLAB Runtime (required dependency):
+# Download and install R2021a Runtime from MathWorks website:
+https://www.mathworks.com/products/compiler/matlab-runtime.html
+3. Open Userguide.docx to view detailed instructions:
+start Userguide.docx
 
 ## License
 This project is released under the **MIT License**. See the `LICENSE` file for full terms.  
