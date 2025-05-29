@@ -18,13 +18,15 @@ You can run the application without MATLAB installed—only the free MATLAB Runt
 ```bash
 git clone https://github.com/recophin/GOGC.git
 cd GOGC  
+```
 2. Install MATLAB Runtime (required dependency):
 ```bash
 https://www.mathworks.com/products/compiler/matlab-runtime.html
+```
 3. Open Userguide.docx to view detailed instructions:
 ```bash
 start Userguide.docx
-
+```
 ## License
 This project is released under the **MIT License**. See the `LICENSE` file for full terms.  
 When redistributing the executable or any derived work, please retain the copyright notice and license.
