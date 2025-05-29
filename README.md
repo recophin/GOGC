@@ -15,13 +15,14 @@ You can run the application without MATLAB installed—only the free MATLAB Runt
 
 ## Installation
 1. Clone the repository:
-# Clone the GOGC repository
+```bash
 git clone https://github.com/recophin/GOGC.git
 cd GOGC  
 2. Install MATLAB Runtime (required dependency):
-# Download and install R2021a Runtime from MathWorks website:
+```bash
 https://www.mathworks.com/products/compiler/matlab-runtime.html
 3. Open Userguide.docx to view detailed instructions:
+```bash
 start Userguide.docx
 
 ## License
